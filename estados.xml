@@ -1,0 +1,22 @@
+<faturamentoMensal>
+    <estado>
+        <nome>SP</nome>
+        <valor>67836.43</valor>
+    </estado>
+    <estado>
+        <nome>RJ</nome>
+        <valor>36678.66</valor>
+    </estado>
+    <estado>
+        <nome>MG</nome>
+        <valor>29229.88</valor>
+    </estado>
+    <estado>
+        <nome>ES</nome>
+        <valor>27165.48</valor>
+    </estado>
+    <estado>
+        <nome>OUTROS</nome>
+        <valor>19849.53</valor>
+    </estado>
+</faturamentoMensal>
